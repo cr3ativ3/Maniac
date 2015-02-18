@@ -3,6 +3,20 @@ jLM
 
 linkomanija.net's unofficial java based API wrapper for http requests 
 
+Project goals
+===
+
+* Fully flexible that would be easy to setup and/or extend for custom needs
+* Fast and reliable (great test coverage)
+
+Roadmap
+===
+
+First on the agenda:
+ * Future-proof interfaces
+ * Dependency injection support
+ * Flexible API structure
+
 License
 ===
  Copyright 2015 Simonas Galinis
